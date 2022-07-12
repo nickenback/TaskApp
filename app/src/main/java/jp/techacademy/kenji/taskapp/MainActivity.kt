@@ -101,8 +101,7 @@ class MainActivity : AppCompatActivity() {
 
 
         reloadListView()
-
-
+        
     }
 
     private fun reloadListView() {
